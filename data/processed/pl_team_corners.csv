@@ -1,0 +1,21 @@
+team,corners_for,xg_per_corner_for,goals_for,corners_against,xg_per_corner_against,goals_against,corner_xg_diff
+West Bromwich Albion,188,0.0536,9,222,0.028,4,3.8746
+Southampton,220,0.051,9,198,0.0356,7,4.1802
+West Ham United,224,0.0473,7,196,0.0374,6,3.2786
+Sunderland,153,0.0472,5,223,0.0305,6,0.4368
+Norwich City,188,0.0462,8,202,0.0334,5,1.9363
+Leicester City,196,0.0404,5,238,0.0397,7,-1.527
+Swansea City,163,0.0404,3,197,0.0487,13,-3.0106
+Crystal Palace,219,0.0389,11,219,0.0265,2,2.724
+Everton,218,0.0386,8,229,0.0485,11,-2.6912
+Arsenal,227,0.0373,6,181,0.0343,4,2.2624
+Liverpool,266,0.0366,8,175,0.0397,11,2.8001
+Watford,164,0.0345,3,244,0.0268,5,-0.8817
+Aston Villa,166,0.0337,6,233,0.041,8,-3.9623
+Tottenham Hotspur,254,0.0312,10,182,0.0318,6,2.1267
+Manchester City,257,0.031,10,164,0.0493,7,-0.1168
+AFC Bournemouth,221,0.0307,9,169,0.0432,9,-0.526
+Newcastle United,162,0.0305,7,242,0.0438,8,-5.6599
+Stoke City,154,0.0252,2,241,0.0348,9,-4.5139
+Chelsea,239,0.0235,5,209,0.0268,6,0.0213
+Manchester United,228,0.0206,4,143,0.0382,1,-0.7516

@@ -1,0 +1,9 @@
+pandas>=2.2
+numpy>=1.26
+requests>=2.31
+scipy>=1.11
+matplotlib>=3.8
+mplsoccer>=1.4
+statsmodels>=0.14
+streamlit>=1.45
+plotly>=5.20

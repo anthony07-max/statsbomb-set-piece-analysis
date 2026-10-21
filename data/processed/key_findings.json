@@ -1,0 +1,166 @@
+{
+  "matches": 495,
+  "corners": 5184,
+  "corners_per_match": 10.47,
+  "fk_attacking_third": 2415,
+  "shots": 12677,
+  "competitions": [
+    "Euro 2024",
+    "Premier League 2015/16",
+    "World Cup 2022"
+  ],
+  "corner_shot_rate": 33.3,
+  "corner_xg": 0.0361,
+  "corner_goal_rate": 3.12,
+  "corners_per_goal": 32.0,
+  "corner_goals": 162,
+  "set_piece_share_of_non_penalty_goals": {
+    "Euro 2024": 29.6,
+    "Premier League 2015/16": 32.8,
+    "World Cup 2022": 30.3
+  },
+  "set_piece_share_all": 32.2,
+  "corner_share_of_non_penalty_goals_all": 15.2,
+  "zones": {
+    "Short": {
+      "corners": 516,
+      "shot_rate_pct": 25.775,
+      "xg_per_corner": 0.027,
+      "goals": 15
+    },
+    "Near post": {
+      "corners": 1637,
+      "shot_rate_pct": 30.788,
+      "xg_per_corner": 0.032,
+      "goals": 52
+    },
+    "Central (goal area)": {
+      "corners": 1719,
+      "shot_rate_pct": 35.02,
+      "xg_per_corner": 0.042,
+      "goals": 59
+    },
+    "Far post": {
+      "corners": 598,
+      "shot_rate_pct": 39.799,
+      "xg_per_corner": 0.044,
+      "goals": 17
+    },
+    "Penalty spot area": {
+      "corners": 315,
+      "shot_rate_pct": 44.127,
+      "xg_per_corner": 0.034,
+      "goals": 12
+    },
+    "Edge of box": {
+      "corners": 82,
+      "shot_rate_pct": 31.707,
+      "xg_per_corner": 0.02,
+      "goals": 2
+    },
+    "Wide / beyond box": {
+      "corners": 317,
+      "shot_rate_pct": 26.814,
+      "xg_per_corner": 0.028,
+      "goals": 5
+    }
+  },
+  "delivery": {
+    "Inswinging": {
+      "corners": 2074,
+      "shot_rate_pct": 29.074,
+      "xg_per_corner": 0.038,
+      "goals": 67
+    },
+    "Other / unrecorded": {
+      "corners": 396,
+      "shot_rate_pct": 33.081,
+      "xg_per_corner": 0.032,
+      "goals": 12
+    },
+    "Outswinging": {
+      "corners": 1765,
+      "shot_rate_pct": 39.093,
+      "xg_per_corner": 0.036,
+      "goals": 56
+    },
+    "Short corner": {
+      "corners": 516,
+      "shot_rate_pct": 25.775,
+      "xg_per_corner": 0.027,
+      "goals": 15
+    },
+    "Straight": {
+      "corners": 433,
+      "shot_rate_pct": 39.261,
+      "xg_per_corner": 0.039,
+      "goals": 12
+    }
+  },
+  "inswing_shot_rate": 29.1,
+  "outswing_shot_rate": 38.9,
+  "inswing_xg": 0.0387,
+  "outswing_xg": 0.036,
+  "in_vs_out_chi2_p": 1.5e-10,
+  "in_vs_out_xg_mannwhitney_p": 4.4e-07,
+  "inswing_first_contact": 23.4,
+  "outswing_first_contact": 39.2,
+  "logit_n": 4272,
+  "logit_far_post_or": 1.4802,
+  "logit_far_post_p": 0.0001,
+  "logit_spot_or": 1.3924,
+  "logit_spot_p": 0.014,
+  "logit_outswing_or": 1.5638,
+  "logit_outswing_p": 0.0,
+  "corner_shots": 2116,
+  "corner_header_share": 43.6,
+  "corner_header_conv": 7.8,
+  "corner_foot_conv": 8.8,
+  "corner_header_xg": 0.097,
+  "corner_foot_xg": 0.093,
+  "pl_best_corner_attack": "West Bromwich Albion",
+  "pl_best_corner_attack_xg": 0.0536,
+  "pl_worst_corner_attack": "Manchester United",
+  "pl_worst_corner_attack_xg": 0.0206,
+  "pl_most_corner_goals": "Crystal Palace",
+  "pl_most_corner_goals_n": 11,
+  "pl_leicester_corner_goals": 5,
+  "pl_best_corner_defence": "Crystal Palace",
+  "pl_best_corner_defence_xg": 0.0265,
+  "pl_worst_corner_defence": "Manchester City",
+  "pl_worst_corner_defence_xg": 0.0493,
+  "pl_corners_vs_quality_spearman": -0.234,
+  "pl_corners_vs_quality_p": 0.321,
+  "top_taker": "James Ward-Prowse",
+  "top_taker_team": "Southampton",
+  "top_taker_xg": 0.0787,
+  "top_taker_corners": 51,
+  "takers_ranked": 37,
+  "direct_fk_shots": 490,
+  "direct_fk_goals": 27,
+  "direct_fk_conv": 5.5,
+  "direct_fk_xg": 0.041,
+  "direct_fk_xg_total": 20.1,
+  "fk_box_delivery_n": 1419,
+  "fk_box_delivery_xg": 0.0317,
+  "by_competition": {
+    "Euro 2024": {
+      "corners": 508,
+      "shot_rate_pct": 36.024,
+      "xg_per_corner": 0.033,
+      "goals": 13
+    },
+    "Premier League 2015/16": {
+      "corners": 4107,
+      "shot_rate_pct": 33.333,
+      "xg_per_corner": 0.037,
+      "goals": 135
+    },
+    "World Cup 2022": {
+      "corners": 569,
+      "shot_rate_pct": 30.756,
+      "xg_per_corner": 0.035,
+      "goals": 14
+    }
+  }
+}

@@ -1,0 +1,496 @@
+match_id,competition,date,home,away,home_score,away_score
+3754217,Premier League 2015/16,2015-09-19,Chelsea,Arsenal,2,0
+3754117,Premier League 2015/16,2015-12-13,Aston Villa,Arsenal,0,2
+3754296,Premier League 2015/16,2015-12-21,Arsenal,Manchester City,2,1
+3753983,Premier League 2015/16,2015-10-31,Swansea City,Arsenal,0,3
+3754160,Premier League 2015/16,2015-12-05,Arsenal,Sunderland,3,1
+3754129,Premier League 2015/16,2015-08-24,Arsenal,Liverpool,0,0
+3754309,Premier League 2015/16,2015-12-26,Southampton,Arsenal,4,0
+3754047,Premier League 2015/16,2015-11-29,Liverpool,Swansea City,1,0
+3754058,Premier League 2015/16,2016-01-02,Leicester City,AFC Bournemouth,0,0
+3754245,Premier League 2015/16,2015-10-17,West Bromwich Albion,Sunderland,1,0
+3754136,Premier League 2015/16,2015-12-19,Newcastle United,Aston Villa,1,1
+3754037,Premier League 2015/16,2016-04-30,Everton,AFC Bournemouth,2,1
+3754039,Premier League 2015/16,2016-02-13,Crystal Palace,Watford,1,2
+3754041,Premier League 2015/16,2016-05-15,Arsenal,Aston Villa,4,0
+3754042,Premier League 2015/16,2016-05-15,West Bromwich Albion,Liverpool,1,1
+3754043,Premier League 2015/16,2016-03-20,Tottenham Hotspur,AFC Bournemouth,3,0
+3754045,Premier League 2015/16,2015-12-29,Leicester City,Manchester City,0,0
+3754048,Premier League 2015/16,2016-04-13,Crystal Palace,Everton,0,0
+3754049,Premier League 2015/16,2016-02-27,Leicester City,Norwich City,1,0
+3754050,Premier League 2015/16,2016-03-01,Sunderland,Crystal Palace,2,2
+3754052,Premier League 2015/16,2016-03-19,West Bromwich Albion,Norwich City,0,1
+3754053,Premier League 2015/16,2016-03-13,Aston Villa,Tottenham Hotspur,0,2
+3754055,Premier League 2015/16,2016-05-11,Liverpool,Chelsea,1,1
+3754226,Premier League 2015/16,2015-12-30,Sunderland,Liverpool,0,1
+3754014,Premier League 2015/16,2015-12-26,Stoke City,Manchester United,2,0
+3754091,Premier League 2015/16,2015-10-24,Stoke City,Watford,0,2
+3754135,Premier League 2015/16,2015-12-05,Stoke City,Manchester City,2,0
+3754293,Premier League 2015/16,2015-11-07,Stoke City,Chelsea,1,0
+3754339,Premier League 2015/16,2015-09-26,Stoke City,AFC Bournemouth,2,1
+3754146,Premier League 2015/16,2015-09-19,Stoke City,Leicester City,2,2
+3754347,Premier League 2015/16,2015-12-05,Manchester United,West Ham United,0,0
+3754255,Premier League 2015/16,2015-12-13,Liverpool,West Bromwich Albion,2,2
+3754278,Premier League 2015/16,2015-10-03,AFC Bournemouth,Watford,1,1
+3753979,Premier League 2015/16,2015-11-23,Crystal Palace,Sunderland,0,1
+3753972,Premier League 2015/16,2015-11-21,Swansea City,AFC Bournemouth,2,2
+3753978,Premier League 2015/16,2015-09-26,Southampton,Swansea City,3,1
+3753974,Premier League 2015/16,2015-12-26,Newcastle United,Everton,0,1
+3753993,Premier League 2015/16,2015-08-15,Sunderland,Norwich City,1,3
+3754015,Premier League 2015/16,2015-10-25,Manchester United,Manchester City,0,0
+3754038,Premier League 2015/16,2015-11-29,Norwich City,Arsenal,1,1
+3754001,Premier League 2015/16,2015-09-26,Newcastle United,Chelsea,2,2
+3754007,Premier League 2015/16,2015-08-29,Stoke City,West Bromwich Albion,0,1
+3754008,Premier League 2015/16,2015-09-26,Manchester United,Sunderland,3,0
+3754029,Premier League 2015/16,2015-11-02,Tottenham Hotspur,Aston Villa,3,1
+3753995,Premier League 2015/16,2015-10-03,Chelsea,Southampton,1,3
+3753999,Premier League 2015/16,2015-10-17,Watford,Arsenal,0,3
+3754017,Premier League 2015/16,2015-10-24,Aston Villa,Swansea City,1,2
+3754006,Premier League 2015/16,2015-10-31,West Bromwich Albion,Leicester City,2,3
+3754023,Premier League 2015/16,2015-08-29,AFC Bournemouth,Leicester City,1,1
+3753984,Premier League 2015/16,2015-08-29,Liverpool,West Ham United,0,3
+3754011,Premier League 2015/16,2015-09-20,Southampton,Manchester United,2,3
+3754010,Premier League 2015/16,2015-09-19,Newcastle United,Watford,1,2
+3754028,Premier League 2015/16,2015-11-28,Manchester City,Southampton,3,1
+3753996,Premier League 2015/16,2015-11-21,Chelsea,Norwich City,1,0
+3754025,Premier League 2015/16,2015-12-19,Chelsea,Sunderland,3,1
+3754068,Premier League 2015/16,2015-09-19,Aston Villa,West Bromwich Albion,0,1
+3754056,Premier League 2015/16,2015-12-28,Everton,Stoke City,3,4
+3754040,Premier League 2015/16,2015-09-20,Liverpool,Norwich City,1,1
+3754074,Premier League 2015/16,2015-10-04,Swansea City,Tottenham Hotspur,2,2
+3754076,Premier League 2015/16,2015-10-03,Sunderland,West Ham United,2,2
+3754067,Premier League 2015/16,2015-10-17,Crystal Palace,West Ham United,1,3
+3754079,Premier League 2015/16,2015-10-03,Manchester City,Newcastle United,6,1
+3754090,Premier League 2015/16,2015-10-31,Newcastle United,Stoke City,0,0
+3754083,Premier League 2015/16,2015-08-29,Chelsea,Crystal Palace,1,2
+3754077,Premier League 2015/16,2015-09-19,Manchester City,West Ham United,1,2
+3754060,Premier League 2015/16,2015-10-04,Everton,Liverpool,1,1
+3754073,Premier League 2015/16,2015-12-05,Chelsea,AFC Bournemouth,0,1
+3754085,Premier League 2015/16,2015-12-05,Swansea City,Leicester City,0,3
+3754051,Premier League 2015/16,2015-12-20,Watford,Liverpool,3,0
+3754093,Premier League 2015/16,2015-11-29,Tottenham Hotspur,Chelsea,0,0
+3754046,Premier League 2015/16,2015-12-07,Everton,Crystal Palace,1,1
+3754072,Premier League 2015/16,2015-12-12,Sunderland,Watford,0,1
+3754082,Premier League 2015/16,2015-11-01,Everton,Sunderland,6,2
+3754106,Premier League 2015/16,2015-09-13,Leicester City,Aston Villa,3,2
+3754099,Premier League 2015/16,2015-10-03,Crystal Palace,West Bromwich Albion,2,0
+3754098,Premier League 2015/16,2015-10-31,Chelsea,Liverpool,1,3
+3754057,Premier League 2015/16,2015-12-26,Tottenham Hotspur,Norwich City,3,0
+3754112,Premier League 2015/16,2015-08-09,Newcastle United,Southampton,2,2
+3754104,Premier League 2015/16,2015-08-22,Norwich City,Stoke City,1,1
+3754054,Premier League 2015/16,2015-12-26,Manchester City,Sunderland,4,1
+3754113,Premier League 2015/16,2015-12-05,Southampton,Aston Villa,1,1
+3754107,Premier League 2015/16,2015-08-14,Aston Villa,Manchester United,0,1
+3754105,Premier League 2015/16,2015-09-28,West Bromwich Albion,Everton,2,3
+3754097,Premier League 2015/16,2015-08-08,Manchester United,Tottenham Hotspur,1,0
+3754102,Premier League 2015/16,2015-10-18,Newcastle United,Norwich City,6,2
+3754115,Premier League 2015/16,2015-10-17,Chelsea,Aston Villa,2,0
+3754148,Premier League 2015/16,2015-09-13,Sunderland,Tottenham Hotspur,0,1
+3754169,Premier League 2015/16,2015-09-19,AFC Bournemouth,Sunderland,2,0
+3754174,Premier League 2015/16,2015-09-26,Leicester City,Arsenal,2,5
+3754185,Premier League 2015/16,2015-11-21,Watford,Manchester United,1,2
+3754162,Premier League 2015/16,2015-12-12,AFC Bournemouth,Manchester United,2,1
+3754096,Premier League 2015/16,2015-12-12,West Ham United,Stoke City,0,0
+3754171,Premier League 2015/16,2015-10-04,Arsenal,Manchester United,3,0
+3754119,Premier League 2015/16,2015-10-25,Sunderland,Newcastle United,3,0
+3754126,Premier League 2015/16,2015-10-24,Arsenal,Everton,2,1
+3754133,Premier League 2015/16,2015-10-24,Norwich City,West Bromwich Albion,0,1
+3754167,Premier League 2015/16,2015-10-31,Manchester City,Norwich City,2,1
+3754145,Premier League 2015/16,2015-08-10,West Bromwich Albion,Manchester City,0,3
+3754153,Premier League 2015/16,2015-12-19,Stoke City,Crystal Palace,1,2
+3754143,Premier League 2015/16,2015-12-06,Newcastle United,Liverpool,2,0
+3754186,Premier League 2015/16,2015-11-28,Leicester City,Manchester United,1,1
+3754130,Premier League 2015/16,2015-12-28,Norwich City,Aston Villa,2,0
+3754188,Premier League 2015/16,2015-12-19,Southampton,Tottenham Hotspur,0,2
+3754178,Premier League 2015/16,2015-11-28,Aston Villa,Watford,2,3
+3754157,Premier League 2015/16,2015-11-28,AFC Bournemouth,Everton,3,3
+3754166,Premier League 2015/16,2015-12-19,Everton,Leicester City,2,3
+3754211,Premier League 2015/16,2015-11-21,Newcastle United,Leicester City,0,3
+3754150,Premier League 2015/16,2015-11-28,Sunderland,Stoke City,2,0
+3754218,Premier League 2015/16,2015-12-12,Crystal Palace,Southampton,1,0
+3754205,Premier League 2015/16,2015-08-29,Newcastle United,Arsenal,0,1
+3754221,Premier League 2015/16,2015-08-30,Swansea City,Manchester United,2,1
+3754198,Premier League 2015/16,2015-10-17,Tottenham Hotspur,Liverpool,0,0
+3754193,Premier League 2015/16,2015-10-17,Manchester City,AFC Bournemouth,5,1
+3754222,Premier League 2015/16,2015-09-20,Tottenham Hotspur,Crystal Palace,1,0
+3754213,Premier League 2015/16,2015-09-12,Watford,Swansea City,1,0
+3754212,Premier League 2015/16,2015-09-26,Liverpool,Aston Villa,3,2
+3754223,Premier League 2015/16,2015-10-31,Crystal Palace,Manchester United,0,0
+3754197,Premier League 2015/16,2015-09-26,Tottenham Hotspur,Manchester City,4,1
+3754208,Premier League 2015/16,2015-11-21,Manchester City,Liverpool,1,4
+3754204,Premier League 2015/16,2015-08-29,Aston Villa,Sunderland,2,2
+3754194,Premier League 2015/16,2015-11-07,West Ham United,Everton,1,1
+3754219,Premier League 2015/16,2015-12-19,West Bromwich Albion,AFC Bournemouth,1,2
+3754254,Premier League 2015/16,2015-08-22,Manchester United,Newcastle United,0,0
+3754230,Premier League 2015/16,2015-10-25,Liverpool,Southampton,1,1
+3754285,Premier League 2015/16,2015-12-26,Aston Villa,West Ham United,1,1
+3754233,Premier League 2015/16,2015-08-23,Everton,Manchester City,0,2
+3754270,Premier League 2015/16,2015-08-15,Tottenham Hotspur,Stoke City,2,2
+3754237,Premier League 2015/16,2015-08-08,Leicester City,Sunderland,4,2
+3754257,Premier League 2015/16,2015-09-12,Crystal Palace,Manchester City,0,1
+3754266,Premier League 2015/16,2015-09-27,Watford,Crystal Palace,0,1
+3754256,Premier League 2015/16,2015-10-17,Everton,Manchester United,0,3
+3754288,Premier League 2015/16,2015-10-24,West Ham United,Chelsea,2,1
+3754238,Premier League 2015/16,2015-11-07,AFC Bournemouth,Newcastle United,0,1
+3754269,Premier League 2015/16,2015-10-19,Swansea City,Stoke City,0,1
+3754234,Premier League 2015/16,2015-10-25,AFC Bournemouth,Tottenham Hotspur,1,5
+3754246,Premier League 2015/16,2015-08-29,Manchester City,Watford,2,0
+3754273,Premier League 2015/16,2015-10-31,Watford,West Ham United,2,0
+3754263,Premier League 2015/16,2015-10-24,Leicester City,Crystal Palace,1,0
+3754268,Premier League 2015/16,2015-08-29,Tottenham Hotspur,Everton,0,0
+3754286,Premier League 2015/16,2015-12-05,Watford,Norwich City,2,0
+3754291,Premier League 2015/16,2015-12-28,Watford,Tottenham Hotspur,1,2
+3754283,Premier League 2015/16,2015-11-21,Everton,Aston Villa,4,0
+3754235,Premier League 2015/16,2015-11-29,West Ham United,West Bromwich Albion,1,1
+3754279,Premier League 2015/16,2015-12-26,Swansea City,West Bromwich Albion,1,0
+3754276,Premier League 2015/16,2015-12-13,Tottenham Hotspur,Newcastle United,1,2
+3754287,Premier League 2015/16,2015-12-26,Chelsea,Watford,2,2
+3754259,Premier League 2015/16,2015-12-20,Swansea City,West Ham United,0,0
+3754335,Premier League 2015/16,2015-10-03,Norwich City,Leicester City,1,2
+3754298,Premier League 2015/16,2015-09-19,Swansea City,Everton,0,0
+3754315,Premier League 2015/16,2015-09-12,Norwich City,AFC Bournemouth,3,1
+3754330,Premier League 2015/16,2015-10-03,Aston Villa,Stoke City,0,1
+3754337,Premier League 2015/16,2015-08-30,Southampton,Norwich City,3,0
+3754297,Premier League 2015/16,2015-11-07,Manchester United,West Bromwich Albion,2,0
+3754301,Premier League 2015/16,2015-11-21,West Bromwich Albion,Arsenal,2,1
+3754323,Premier League 2015/16,2015-09-26,West Ham United,Norwich City,2,2
+3754304,Premier League 2015/16,2015-11-28,Crystal Palace,Newcastle United,5,1
+3754311,Premier League 2015/16,2015-11-07,Norwich City,Swansea City,1,0
+3754328,Premier League 2015/16,2015-12-12,Manchester City,Swansea City,2,1
+3754325,Premier League 2015/16,2015-09-12,West Bromwich Albion,Southampton,0,0
+3754329,Premier League 2015/16,2015-09-14,West Ham United,Newcastle United,2,0
+3754302,Premier League 2015/16,2015-10-17,Southampton,Leicester City,2,2
+3754013,Premier League 2015/16,2015-12-14,Leicester City,Chelsea,2,1
+3754044,Premier League 2015/16,2015-12-19,Manchester United,Norwich City,1,2
+3754351,Premier League 2015/16,2015-11-08,Liverpool,Crystal Palace,1,2
+3754343,Premier League 2015/16,2015-12-26,Liverpool,Leicester City,1,0
+3754109,Premier League 2015/16,2015-11-22,Tottenham Hotspur,West Ham United,4,1
+3754182,Premier League 2015/16,2015-12-12,Norwich City,Everton,1,1
+3754240,Premier League 2015/16,2015-09-12,Arsenal,Stoke City,2,0
+3754336,Premier League 2015/16,2015-09-12,Everton,Chelsea,3,1
+3754247,Premier League 2015/16,2015-11-21,Southampton,Stoke City,0,1
+3754156,Premier League 2015/16,2015-11-07,Leicester City,Watford,2,1
+3754265,Premier League 2015/16,2015-11-08,Arsenal,Tottenham Hotspur,1,1
+3754000,Premier League 2015/16,2015-11-07,Sunderland,Southampton,0,1
+3754003,Premier League 2015/16,2015-09-12,Manchester United,Liverpool,3,1
+3754344,Premier League 2015/16,2015-08-15,Swansea City,Newcastle United,2,0
+3754131,Premier League 2015/16,2015-08-22,West Ham United,AFC Bournemouth,3,4
+3754300,Premier League 2015/16,2015-08-08,Everton,Watford,2,2
+3754312,Premier League 2015/16,2015-08-16,Crystal Palace,Arsenal,1,2
+3754138,Premier League 2015/16,2015-08-08,Norwich City,Crystal Palace,1,3
+3754203,Premier League 2015/16,2015-08-15,West Ham United,Leicester City,1,2
+3754190,Premier League 2015/16,2015-08-22,Crystal Palace,Aston Villa,2,1
+3754066,Premier League 2015/16,2015-08-16,Manchester City,Chelsea,3,0
+3754034,Premier League 2015/16,2015-08-15,Southampton,Everton,0,3
+3753985,Premier League 2015/16,2015-08-09,Stoke City,Liverpool,0,1
+3753987,Premier League 2015/16,2015-08-22,Leicester City,Tottenham Hotspur,1,1
+3754189,Premier League 2015/16,2015-08-23,Watford,Southampton,0,0
+3754180,Premier League 2015/16,2015-08-22,Sunderland,Swansea City,1,1
+3754059,Premier League 2015/16,2015-08-23,West Bromwich Albion,Chelsea,2,3
+3754064,Premier League 2015/16,2016-03-20,Southampton,Liverpool,3,2
+3754065,Premier League 2015/16,2016-01-13,Tottenham Hotspur,Leicester City,0,1
+3754173,Premier League 2015/16,2015-12-28,Arsenal,AFC Bournemouth,2,0
+3754175,Premier League 2015/16,2016-04-02,Sunderland,West Bromwich Albion,0,0
+3753973,Premier League 2015/16,2016-03-19,Chelsea,West Ham United,2,2
+3753975,Premier League 2015/16,2016-01-23,Sunderland,AFC Bournemouth,1,1
+3753976,Premier League 2015/16,2016-03-02,Arsenal,Swansea City,1,2
+3753977,Premier League 2015/16,2016-03-19,Watford,Stoke City,1,2
+3753980,Premier League 2015/16,2016-03-19,Everton,Arsenal,0,2
+3753981,Premier League 2015/16,2016-01-12,Aston Villa,Crystal Palace,1,0
+3753982,Premier League 2015/16,2016-04-03,Leicester City,Southampton,1,0
+3753986,Premier League 2015/16,2016-04-10,Liverpool,Stoke City,4,1
+3753988,Premier League 2015/16,2016-03-12,AFC Bournemouth,Swansea City,3,2
+3753989,Premier League 2015/16,2016-05-11,Sunderland,Everton,3,0
+3753990,Premier League 2015/16,2016-04-24,Sunderland,Arsenal,0,0
+3753991,Premier League 2015/16,2016-03-02,Liverpool,Manchester City,3,0
+3753992,Premier League 2015/16,2016-05-08,Tottenham Hotspur,Southampton,1,2
+3753994,Premier League 2015/16,2016-05-15,Southampton,Crystal Palace,4,1
+3753997,Premier League 2015/16,2016-02-02,West Ham United,Aston Villa,2,0
+3753998,Premier League 2015/16,2015-12-28,West Ham United,Southampton,2,1
+3754002,Premier League 2015/16,2016-03-14,Leicester City,Newcastle United,1,0
+3754004,Premier League 2015/16,2016-01-16,AFC Bournemouth,Norwich City,3,0
+3754005,Premier League 2015/16,2016-03-02,Stoke City,Newcastle United,1,0
+3754009,Premier League 2015/16,2016-04-17,Arsenal,Crystal Palace,1,1
+3754012,Premier League 2015/16,2016-02-27,Southampton,Chelsea,1,2
+3754016,Premier League 2015/16,2016-04-09,Southampton,Newcastle United,3,1
+3754018,Premier League 2015/16,2016-05-01,Swansea City,Liverpool,3,1
+3754019,Premier League 2015/16,2015-12-28,Manchester United,Chelsea,0,0
+3754021,Premier League 2015/16,2016-01-12,AFC Bournemouth,West Ham United,1,3
+3754022,Premier League 2015/16,2016-04-09,Crystal Palace,Norwich City,1,0
+3754024,Premier League 2015/16,2016-04-16,Newcastle United,Swansea City,3,0
+3754026,Premier League 2015/16,2016-05-07,Crystal Palace,Stoke City,2,1
+3754027,Premier League 2015/16,2016-01-16,Tottenham Hotspur,Sunderland,4,1
+3754030,Premier League 2015/16,2016-04-09,Watford,Everton,1,1
+3754031,Premier League 2015/16,2016-02-13,Sunderland,Manchester United,2,1
+3754032,Premier League 2015/16,2016-01-13,Stoke City,Norwich City,3,1
+3754033,Premier League 2015/16,2016-05-07,Leicester City,Everton,3,1
+3754035,Premier League 2015/16,2016-04-09,Manchester City,West Bromwich Albion,2,1
+3754036,Premier League 2015/16,2016-01-02,Sunderland,Aston Villa,3,1
+3754061,Premier League 2015/16,2016-03-05,Chelsea,Stoke City,1,1
+3754062,Premier League 2015/16,2016-01-13,Chelsea,West Bromwich Albion,2,2
+3754063,Premier League 2015/16,2016-04-30,Watford,Aston Villa,3,2
+3754069,Premier League 2015/16,2016-01-02,Arsenal,Newcastle United,1,0
+3754070,Premier League 2015/16,2016-05-07,Aston Villa,Newcastle United,0,0
+3754071,Premier League 2015/16,2016-01-13,Swansea City,Sunderland,2,4
+3754075,Premier League 2015/16,2016-04-02,Aston Villa,Chelsea,0,4
+3754080,Premier League 2015/16,2016-02-06,Tottenham Hotspur,Watford,1,0
+3754081,Premier League 2015/16,2016-03-06,West Bromwich Albion,Manchester United,1,0
+3754084,Premier League 2015/16,2016-01-23,West Bromwich Albion,Aston Villa,0,0
+3754086,Premier League 2015/16,2016-04-20,West Ham United,Watford,3,1
+3754087,Premier League 2015/16,2016-04-02,Liverpool,Tottenham Hotspur,1,1
+3754088,Premier League 2015/16,2016-01-12,Newcastle United,Manchester United,3,3
+3754089,Premier League 2015/16,2016-02-02,Crystal Palace,AFC Bournemouth,1,2
+3754092,Premier League 2015/16,2016-05-02,Chelsea,Tottenham Hotspur,2,2
+3754094,Premier League 2015/16,2016-02-02,Manchester United,Stoke City,3,0
+3754095,Premier League 2015/16,2016-02-02,Sunderland,Manchester City,0,1
+3754100,Premier League 2015/16,2016-03-20,Newcastle United,Sunderland,1,1
+3754101,Premier League 2015/16,2016-01-02,Norwich City,Southampton,1,0
+3754103,Premier League 2015/16,2016-02-03,Watford,Chelsea,0,0
+3754108,Premier League 2015/16,2016-05-07,Sunderland,Chelsea,3,2
+3754110,Premier League 2015/16,2016-01-23,West Ham United,Manchester City,2,2
+3754111,Premier League 2015/16,2016-01-24,Arsenal,Chelsea,0,1
+3754114,Premier League 2015/16,2016-01-03,Crystal Palace,Chelsea,0,3
+3754116,Premier League 2015/16,2016-04-09,Swansea City,Chelsea,1,0
+3754118,Premier League 2015/16,2016-04-02,Arsenal,Watford,4,0
+3754120,Premier League 2015/16,2016-02-06,Southampton,West Ham United,1,0
+3754121,Premier League 2015/16,2016-02-27,Watford,AFC Bournemouth,0,0
+3754122,Premier League 2015/16,2016-01-02,West Bromwich Albion,Stoke City,2,1
+3754123,Premier League 2015/16,2016-05-15,Everton,Norwich City,3,0
+3754124,Premier League 2015/16,2016-03-20,Manchester City,Manchester United,0,1
+3754125,Premier League 2015/16,2016-01-16,Chelsea,Everton,3,3
+3754127,Premier League 2015/16,2016-02-06,Stoke City,Everton,0,3
+3754132,Premier League 2015/16,2016-04-30,Stoke City,Sunderland,1,1
+3754134,Premier League 2015/16,2016-05-10,West Ham United,Manchester United,3,2
+3754137,Premier League 2015/16,2016-04-16,Everton,Southampton,1,1
+3754139,Premier League 2015/16,2016-02-13,Swansea City,Southampton,0,1
+3754140,Premier League 2015/16,2016-01-03,Everton,Tottenham Hotspur,1,1
+3754142,Premier League 2015/16,2016-01-13,Manchester City,Everton,0,0
+3754144,Premier League 2015/16,2016-04-02,AFC Bournemouth,Manchester City,0,4
+3754147,Premier League 2015/16,2016-02-14,Manchester City,Tottenham Hotspur,1,2
+3754149,Premier League 2015/16,2016-05-15,Swansea City,Manchester City,1,1
+3754151,Premier League 2015/16,2016-03-05,Swansea City,Norwich City,1,0
+3754152,Premier League 2015/16,2016-04-10,Sunderland,Leicester City,0,2
+3754154,Premier League 2015/16,2016-04-23,Liverpool,Newcastle United,2,2
+3754155,Premier League 2015/16,2016-04-16,West Bromwich Albion,Watford,0,1
+3754158,Premier League 2015/16,2016-05-07,West Ham United,Swansea City,1,4
+3754159,Premier League 2015/16,2016-05-17,Manchester United,AFC Bournemouth,3,1
+3754161,Premier League 2015/16,2016-01-18,Swansea City,Watford,1,0
+3754163,Premier League 2015/16,2016-01-24,Everton,Swansea City,1,2
+3754164,Premier League 2015/16,2016-03-05,Southampton,Sunderland,1,1
+3754165,Premier League 2015/16,2016-05-01,Manchester United,Leicester City,1,1
+3754168,Premier League 2015/16,2016-01-16,Southampton,West Bromwich Albion,3,0
+3754170,Premier League 2015/16,2016-04-30,Newcastle United,Crystal Palace,1,0
+3754172,Premier League 2015/16,2016-04-16,Norwich City,Sunderland,0,3
+3754176,Premier League 2015/16,2016-04-02,West Ham United,Crystal Palace,2,2
+3754177,Premier League 2015/16,2016-03-05,Newcastle United,AFC Bournemouth,1,3
+3754179,Premier League 2015/16,2016-01-23,Crystal Palace,Tottenham Hotspur,1,3
+3754181,Premier League 2015/16,2016-03-19,Crystal Palace,Leicester City,0,1
+3754183,Premier League 2015/16,2016-01-13,Southampton,Watford,2,0
+3754184,Premier League 2015/16,2016-04-30,Arsenal,Norwich City,1,0
+3754187,Premier League 2015/16,2016-04-18,Stoke City,Tottenham Hotspur,0,4
+3754191,Premier League 2015/16,2015-11-01,Southampton,AFC Bournemouth,2,0
+3754192,Premier League 2015/16,2016-04-30,West Bromwich Albion,West Ham United,0,3
+3754195,Premier League 2015/16,2015-12-28,West Bromwich Albion,Newcastle United,1,0
+3754196,Premier League 2015/16,2016-03-12,Stoke City,Southampton,1,2
+3754199,Premier League 2015/16,2016-05-15,Stoke City,West Ham United,2,1
+3754200,Premier League 2015/16,2016-01-23,Manchester United,Southampton,0,1
+3754201,Premier League 2015/16,2016-02-02,Arsenal,Southampton,0,0
+3754202,Premier League 2015/16,2016-01-17,Stoke City,Arsenal,0,0
+3754206,Premier League 2015/16,2016-04-19,Newcastle United,Manchester City,1,1
+3754207,Premier League 2015/16,2016-05-11,Norwich City,Watford,4,2
+3754209,Premier League 2015/16,2016-04-10,Tottenham Hotspur,Manchester United,3,0
+3754210,Premier League 2015/16,2016-05-07,Norwich City,Manchester United,0,1
+3754214,Premier League 2015/16,2016-02-14,Aston Villa,Liverpool,0,6
+3754215,Premier League 2015/16,2015-12-05,West Bromwich Albion,Tottenham Hotspur,1,1
+3754216,Premier League 2015/16,2016-04-17,AFC Bournemouth,Liverpool,1,2
+3754220,Premier League 2015/16,2016-03-06,Crystal Palace,Liverpool,1,2
+3754224,Premier League 2015/16,2016-03-19,Swansea City,Aston Villa,1,0
+3754225,Premier League 2015/16,2016-05-07,AFC Bournemouth,West Bromwich Albion,1,1
+3754227,Premier League 2015/16,2016-04-17,Leicester City,West Ham United,2,2
+3754228,Premier League 2015/16,2016-04-24,Leicester City,Swansea City,4,0
+3754229,Premier League 2015/16,2016-05-15,Chelsea,Leicester City,1,1
+3754231,Premier League 2015/16,2016-03-01,Leicester City,West Bromwich Albion,2,2
+3754232,Premier League 2015/16,2016-03-02,Manchester United,Watford,1,0
+3754236,Premier League 2015/16,2016-02-27,West Bromwich Albion,Crystal Palace,3,2
+3754239,Premier League 2015/16,2016-02-28,Manchester United,Arsenal,3,2
+3754241,Premier League 2015/16,2016-04-09,West Ham United,Arsenal,3,3
+3754242,Premier League 2015/16,2016-04-23,AFC Bournemouth,Chelsea,1,4
+3754243,Premier League 2015/16,2016-04-02,Norwich City,Newcastle United,3,2
+3754244,Premier League 2015/16,2016-02-13,Norwich City,West Ham United,2,2
+3754249,Premier League 2015/16,2016-03-05,Manchester City,Aston Villa,4,0
+3754250,Premier League 2015/16,2016-01-16,Aston Villa,Leicester City,1,1
+3754251,Premier League 2015/16,2016-01-02,West Ham United,Liverpool,2,0
+3754252,Premier League 2015/16,2016-02-03,Everton,Newcastle United,3,0
+3754253,Premier League 2015/16,2016-02-07,AFC Bournemouth,Arsenal,0,2
+3754260,Premier League 2015/16,2016-01-16,Manchester City,Crystal Palace,4,0
+3754261,Premier League 2015/16,2016-02-14,Arsenal,Leicester City,2,1
+3754262,Premier League 2015/16,2016-04-09,Aston Villa,AFC Bournemouth,1,2
+3754264,Premier League 2015/16,2016-02-13,Chelsea,Newcastle United,5,1
+3754295,Premier League 2015/16,2016-04-16,Manchester United,Aston Villa,1,0
+3754271,Premier League 2015/16,2016-01-23,Watford,Newcastle United,2,1
+3754272,Premier League 2015/16,2016-04-02,Stoke City,Swansea City,2,2
+3754274,Premier League 2015/16,2016-02-13,AFC Bournemouth,Stoke City,1,3
+3754275,Premier League 2015/16,2016-02-02,Leicester City,Liverpool,2,0
+3754277,Premier League 2015/16,2016-03-05,Everton,West Ham United,2,3
+3754280,Premier League 2015/16,2016-03-01,Norwich City,Chelsea,1,2
+3754281,Premier League 2015/16,2016-02-07,Chelsea,Manchester United,1,1
+3754282,Premier League 2015/16,2016-04-23,Aston Villa,Southampton,2,4
+3754284,Premier League 2015/16,2016-04-21,Arsenal,West Bromwich Albion,2,0
+3754289,Premier League 2015/16,2016-03-05,Watford,Leicester City,0,1
+3754290,Premier League 2015/16,2016-02-06,Manchester City,Leicester City,1,3
+3754292,Premier League 2015/16,2016-02-06,Newcastle United,West Bromwich Albion,1,0
+3754294,Premier League 2015/16,2016-04-20,Liverpool,Everton,4,0
+3754248,Premier League 2015/16,2015-12-26,AFC Bournemouth,Crystal Palace,0,0
+3754299,Premier League 2015/16,2016-04-03,Manchester United,Everton,1,0
+3754303,Premier League 2015/16,2016-02-06,Swansea City,Crystal Palace,1,1
+3754305,Premier League 2015/16,2016-01-13,Liverpool,Arsenal,3,3
+3754306,Premier League 2015/16,2016-02-06,Aston Villa,Norwich City,2,0
+3754307,Premier League 2015/16,2016-04-23,Manchester City,Stoke City,4,0
+3754308,Premier League 2015/16,2016-05-15,Watford,Sunderland,2,2
+3754310,Premier League 2015/16,2016-04-20,Manchester United,Crystal Palace,2,0
+3754313,Premier League 2015/16,2016-03-12,Norwich City,Manchester City,0,0
+3754314,Premier League 2015/16,2016-05-08,Manchester City,Arsenal,2,2
+3754316,Premier League 2015/16,2016-02-06,Liverpool,Sunderland,2,2
+3754317,Premier League 2015/16,2016-02-02,Norwich City,Tottenham Hotspur,0,3
+3754318,Premier League 2015/16,2016-03-05,Tottenham Hotspur,Arsenal,2,2
+3754319,Premier League 2015/16,2016-01-02,Manchester United,Swansea City,2,1
+3754320,Premier League 2015/16,2016-05-01,Southampton,Manchester City,4,2
+3754321,Premier League 2015/16,2016-02-27,Stoke City,Aston Villa,2,1
+3754322,Premier League 2015/16,2016-04-16,Chelsea,Manchester City,0,3
+3754324,Premier League 2015/16,2016-02-28,Tottenham Hotspur,Swansea City,2,1
+3754326,Premier League 2015/16,2015-12-28,Crystal Palace,Swansea City,0,0
+3754327,Premier League 2015/16,2016-03-01,Aston Villa,Everton,1,3
+3754331,Premier League 2015/16,2016-02-27,West Ham United,Sunderland,1,0
+3754332,Premier League 2015/16,2016-04-25,Tottenham Hotspur,West Bromwich Albion,1,1
+3754333,Premier League 2015/16,2016-05-15,Newcastle United,Tottenham Hotspur,5,1
+3754334,Premier League 2015/16,2016-03-01,AFC Bournemouth,Southampton,2,0
+3754338,Premier League 2015/16,2016-01-16,Newcastle United,West Ham United,2,1
+3754340,Premier League 2015/16,2016-02-02,West Bromwich Albion,Swansea City,1,1
+3754341,Premier League 2015/16,2016-01-23,Leicester City,Stoke City,3,0
+3754342,Premier League 2015/16,2016-05-08,Liverpool,Watford,2,0
+3754345,Premier League 2015/16,2016-01-17,Liverpool,Manchester United,0,1
+3754346,Premier League 2015/16,2016-01-02,Watford,Manchester City,1,2
+3754348,Premier League 2015/16,2016-01-23,Norwich City,Liverpool,4,5
+3754349,Premier League 2015/16,2016-03-02,West Ham United,Tottenham Hotspur,1,0
+3754350,Premier League 2015/16,2016-02-13,Everton,West Bromwich Albion,0,1
+3754258,Premier League 2015/16,2015-11-08,Aston Villa,Manchester City,0,0
+3754020,Premier League 2015/16,2015-08-17,Liverpool,AFC Bournemouth,1,0
+3754267,Premier League 2015/16,2015-08-15,Watford,West Bromwich Albion,0,0
+3754141,Premier League 2015/16,2015-08-09,Arsenal,West Ham United,0,2
+3754128,Premier League 2015/16,2015-08-08,AFC Bournemouth,Aston Villa,0,1
+3754078,Premier League 2015/16,2015-08-08,Chelsea,Swansea City,2,2
+3857276,World Cup 2022,2022-12-01,Canada,Morocco,1,2
+3857271,World Cup 2022,2022-11-21,England,Iran,6,2
+3857296,World Cup 2022,2022-12-01,Croatia,Belgium,0,0
+3857274,World Cup 2022,2022-11-25,Netherlands,Ecuador,1,1
+3857255,World Cup 2022,2022-12-01,Japan,Spain,2,1
+3857272,World Cup 2022,2022-11-25,England,United States,0,0
+3857278,World Cup 2022,2022-11-29,Iran,United States,0,1
+3857277,World Cup 2022,2022-11-23,Morocco,Croatia,0,0
+3857273,World Cup 2022,2022-11-25,Wales,Iran,0,2
+3857275,World Cup 2022,2022-11-30,Tunisia,France,1,0
+3857261,World Cup 2022,2022-11-29,Wales,England,0,3
+3857290,World Cup 2022,2022-11-24,Switzerland,Cameroon,1,0
+3857298,World Cup 2022,2022-11-24,Portugal,Ghana,3,2
+3857285,World Cup 2022,2022-11-21,Senegal,Netherlands,0,2
+3857282,World Cup 2022,2022-11-21,United States,Wales,1,1
+3857297,World Cup 2022,2022-11-26,Poland,Saudi Arabia,2,0
+3857294,World Cup 2022,2022-11-29,Netherlands,Qatar,2,0
+3857266,World Cup 2022,2022-11-26,France,Denmark,2,1
+3857284,World Cup 2022,2022-11-23,Germany,Japan,1,2
+3857254,World Cup 2022,2022-11-22,Denmark,Tunisia,0,0
+3857265,World Cup 2022,2022-11-22,Mexico,Poland,0,0
+3857301,World Cup 2022,2022-11-25,Qatar,Senegal,1,3
+3857268,World Cup 2022,2022-11-23,Belgium,Canada,1,0
+3857269,World Cup 2022,2022-11-28,Brazil,Switzerland,1,0
+3869321,World Cup 2022,2022-12-09,Netherlands,Argentina,2,2
+3857292,World Cup 2022,2022-12-01,Costa Rica,Germany,2,4
+3857295,World Cup 2022,2022-11-27,Japan,Costa Rica,0,1
+3869685,World Cup 2022,2022-12-18,Argentina,France,3,3
+3869684,World Cup 2022,2022-12-17,Croatia,Morocco,2,1
+3857256,World Cup 2022,2022-12-02,Serbia,Switzerland,2,3
+3869151,World Cup 2022,2022-12-03,Argentina,Australia,2,1
+3857257,World Cup 2022,2022-11-30,Australia,Denmark,1,0
+3857258,World Cup 2022,2022-11-24,Brazil,Serbia,2,0
+3857288,World Cup 2022,2022-11-26,Tunisia,Australia,0,1
+3857267,World Cup 2022,2022-11-29,Ecuador,Senegal,1,2
+3857287,World Cup 2022,2022-11-24,Uruguay,South Korea,0,0
+3869486,World Cup 2022,2022-12-10,Morocco,Portugal,1,0
+3857260,World Cup 2022,2022-11-30,Saudi Arabia,Mexico,1,2
+3857264,World Cup 2022,2022-11-30,Poland,Argentina,0,2
+3857289,World Cup 2022,2022-11-26,Argentina,Mexico,2,0
+3869254,World Cup 2022,2022-12-06,Portugal,Switzerland,6,1
+3869118,World Cup 2022,2022-12-04,England,Senegal,3,0
+3869519,World Cup 2022,2022-12-13,Argentina,Croatia,3,0
+3869354,World Cup 2022,2022-12-10,England,France,1,2
+3869552,World Cup 2022,2022-12-14,France,Morocco,2,0
+3869420,World Cup 2022,2022-12-09,Croatia,Brazil,1,1
+3869220,World Cup 2022,2022-12-06,Morocco,Spain,0,0
+3869219,World Cup 2022,2022-12-05,Japan,Croatia,1,1
+3869253,World Cup 2022,2022-12-05,Brazil,South Korea,4,1
+3869152,World Cup 2022,2022-12-04,France,Poland,3,1
+3869117,World Cup 2022,2022-12-03,Netherlands,United States,3,1
+3857270,World Cup 2022,2022-11-28,Portugal,Uruguay,2,0
+3857263,World Cup 2022,2022-11-27,Spain,Germany,1,1
+3857259,World Cup 2022,2022-11-28,Cameroon,Serbia,3,3
+3857283,World Cup 2022,2022-11-27,Belgium,Morocco,0,2
+3857286,World Cup 2022,2022-11-20,Qatar,Ecuador,0,2
+3857300,World Cup 2022,2022-11-22,Argentina,Saudi Arabia,1,2
+3857299,World Cup 2022,2022-11-28,South Korea,Ghana,2,3
+3857293,World Cup 2022,2022-12-02,Ghana,Uruguay,0,2
+3857291,World Cup 2022,2022-11-23,Spain,Costa Rica,7,0
+3857281,World Cup 2022,2022-11-27,Croatia,Canada,4,1
+3857280,World Cup 2022,2022-12-02,Cameroon,Brazil,1,0
+3857279,World Cup 2022,2022-11-22,France,Australia,4,1
+3857262,World Cup 2022,2022-12-02,South Korea,Portugal,2,1
+3930166,Euro 2024,2024-06-18,Portugal,Czech Republic,2,1
+3930159,Euro 2024,2024-06-15,Hungary,Switzerland,1,3
+3930163,Euro 2024,2024-06-16,Serbia,England,0,1
+3930181,Euro 2024,2024-06-25,England,Slovenia,0,0
+3930178,Euro 2024,2024-06-24,Croatia,Italy,1,1
+3930160,Euro 2024,2024-06-15,Spain,Croatia,3,0
+3930170,Euro 2024,2024-06-20,Slovenia,Serbia,1,1
+3938643,Euro 2024,2024-06-25,France,Poland,1,1
+3938641,Euro 2024,2024-06-21,Poland,Austria,1,3
+3938642,Euro 2024,2024-06-22,Georgia,Czech Republic,1,1
+3938639,Euro 2024,2024-06-18,Turkey,Georgia,3,1
+3938638,Euro 2024,2024-06-17,Romania,Ukraine,3,0
+3938640,Euro 2024,2024-06-21,Slovakia,Ukraine,1,2
+3938637,Euro 2024,2024-06-16,Poland,Netherlands,1,2
+3938644,Euro 2024,2024-06-26,Georgia,Portugal,2,0
+3941019,Euro 2024,2024-07-01,France,Belgium,1,0
+3942227,Euro 2024,2024-07-06,England,Switzerland,1,1
+3930174,Euro 2024,2024-06-22,Turkey,Portugal,0,3
+3930162,Euro 2024,2024-06-16,Slovenia,Denmark,1,1
+3930176,Euro 2024,2024-06-23,Switzerland,Germany,1,1
+3930169,Euro 2024,2024-06-19,Scotland,Switzerland,1,1
+3942819,Euro 2024,2024-07-10,Netherlands,England,1,2
+3943043,Euro 2024,2024-07-14,Spain,England,2,1
+3942752,Euro 2024,2024-07-09,Spain,France,2,1
+3942382,Euro 2024,2024-07-06,Netherlands,Turkey,2,1
+3942349,Euro 2024,2024-07-05,Portugal,France,0,0
+3930180,Euro 2024,2024-06-25,Netherlands,Austria,2,3
+3930171,Euro 2024,2024-06-20,Denmark,England,1,1
+3942226,Euro 2024,2024-07-05,Spain,Germany,2,1
+3938645,Euro 2024,2024-06-26,Ukraine,Belgium,0,0
+3930184,Euro 2024,2024-06-26,Czech Republic,Turkey,1,2
+3941022,Euro 2024,2024-07-02,Austria,Turkey,1,2
+3941021,Euro 2024,2024-07-02,Romania,Netherlands,0,3
+3941020,Euro 2024,2024-07-01,Portugal,Slovenia,0,0
+3941018,Euro 2024,2024-06-30,Spain,Georgia,4,1
+3941017,Euro 2024,2024-06-30,England,Slovakia,2,1
+3930182,Euro 2024,2024-06-25,Denmark,Serbia,0,0
+3930179,Euro 2024,2024-06-24,Albania,Spain,0,1
+3940983,Euro 2024,2024-06-29,Germany,Denmark,2,0
+3940878,Euro 2024,2024-06-29,Switzerland,Italy,2,0
+3930177,Euro 2024,2024-06-23,Scotland,Hungary,0,1
+3930173,Euro 2024,2024-06-21,Netherlands,France,0,0
+3930172,Euro 2024,2024-06-20,Spain,Italy,1,0
+3930167,Euro 2024,2024-06-19,Croatia,Albania,2,2
+3930168,Euro 2024,2024-06-19,Germany,Hungary,2,0
+3930165,Euro 2024,2024-06-17,Austria,France,0,1
+3930164,Euro 2024,2024-06-17,Belgium,Slovakia,0,1
+3930161,Euro 2024,2024-06-15,Italy,Albania,2,1
+3930183,Euro 2024,2024-06-26,Slovakia,Romania,1,1
+3930175,Euro 2024,2024-06-22,Belgium,Romania,2,0
+3930158,Euro 2024,2024-06-14,Germany,Scotland,5,1

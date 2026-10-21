@@ -1,0 +1,11 @@
+,odds_ratio,p_value
+Intercept,0.4098,0.0
+"C(zone, Treatment('Near post'))[T.Central (goal area)]",1.2052,0.0132
+"C(zone, Treatment('Near post'))[T.Edge of box]",0.8193,0.5192
+"C(zone, Treatment('Near post'))[T.Far post]",1.4802,0.0001
+"C(zone, Treatment('Near post'))[T.Penalty spot area]",1.3924,0.0144
+"C(zone, Treatment('Near post'))[T.Wide / beyond box]",0.1569,0.0
+"C(technique, Treatment('Inswinging'))[T.Outswinging]",1.5638,0.0
+"C(technique, Treatment('Inswinging'))[T.Straight]",1.5534,0.0001
+C(competition)[T.Premier League 2015/16],0.8761,0.2387
+C(competition)[T.World Cup 2022],0.8191,0.1732
